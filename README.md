@@ -59,6 +59,7 @@ Detailed design documentation is available in the `docs` directory.
 - [Use Cases](docs/use_cases.md)
 - [Hardware Architecture](docs/hardware_architecture.md)
 - [Power Architecture](docs/power_architecture.md)
+- [Network and Reliability](docs/network_and_reliability.md)
 
 ---
 
