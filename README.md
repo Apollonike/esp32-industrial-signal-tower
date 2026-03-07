@@ -57,6 +57,7 @@ Detailed design documentation is available in the `docs` directory.
 
 - [System Architecture](docs/system_architecture.md)
 - [Use Cases](docs/use_cases.md)
+- [Hardware Architecture](docs/hardware_architecture.md)
 
 ---
 
