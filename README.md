@@ -1,2 +1,68 @@
-# esp32-industrial-signal-tower
-ESP32-based controller for industrial signal towers used to visualize monitoring system states
+# ESP32 Industrial Signal Tower Controller
+
+A modular ESP32-based controller for industrial LED signal towers designed
+to visualize monitoring system states in physical environments.
+
+The project explores how embedded systems can be used to provide clear visual
+status indicators for infrastructure monitoring platforms such as datacenter
+monitoring, industrial automation environments, or control rooms.
+
+---
+
+# Overview
+
+Modern infrastructure environments rely heavily on monitoring systems to detect
+failures and abnormal operating conditions.
+
+Typical alerts are delivered through dashboards, notifications, or log systems.
+However, in many operational scenarios a **clear visual signal in the physical
+environment** can significantly improve response time.
+
+Industrial signal towers provide a simple and robust way to visualize system
+states locally.
+
+This project aims to build a modular controller that allows such signal towers
+to be integrated with monitoring systems and automation platforms.
+
+---
+
+# Motivation
+
+In large technical environments it is often difficult to quickly locate the
+source of an infrastructure problem.
+
+Examples include:
+
+- server racks in datacenters
+- network cabinets in wiring centers
+- production equipment
+- energy infrastructure
+- operations control rooms
+
+Enterprise storage systems already use similar concepts.  
+For example, **fault LEDs on storage arrays help technicians identify the
+exact location of a failed hard drive**.
+
+This project applies the same idea on a larger scale by using industrial signal
+towers to visualize monitoring states.
+
+The goal is to improve **fault localization and operational awareness** in
+technical environments.
+
+---
+
+# Project Status
+
+🚧 Early concept phase
+
+Current focus:
+
+- defining the system architecture
+- evaluating hardware approaches
+- documenting the design concepts
+
+---
+
+# License
+
+MIT License
