@@ -51,6 +51,15 @@ technical environments.
 
 ---
 
+# Documentation
+
+Detailed design documentation is available in the `docs` directory.
+
+- [System Architecture](docs/system_architecture.md)
+- [Use Cases](docs/use_cases.md)
+
+---
+
 # Project Status
 
 🚧 Early concept phase
