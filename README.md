@@ -1,5 +1,7 @@
 # ESP32 Industrial Signal Tower Controller
 
+![System Overview](docs/images/architecture_overview.png)
+
 A modular ESP32-based controller for industrial LED signal towers designed
 to visualize monitoring system states in physical environments.
 
