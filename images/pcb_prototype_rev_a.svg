@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with "sPlan" (http://www.abacom-online.de) -->
+<svg version="1.1" baseProfile="full"
+xmlns="http://www.w3.org/2000/svg"
+width="1930" height="1430">
+<title>Lignalleuchte-01</title>
+<defs>
+<style type="text/css">
+<![CDATA[
+polyline {stroke-linecap:round; stroke-linejoin:round}
+polygon {stroke-linecap:round; stroke-linejoin:round}
+path {stroke-linecap:round; stroke-linejoin:round}
+circle {stroke-linecap:round; stroke-linejoin:round}
+]]>
+</style>
+</defs>
+<polyline points="1440.00 690.00 1440.00 790.00 940.00 790.00 940.00 640.00 590.00 640.00 590.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 40 40 L 1890 40 1890 1390 40 1390 40 40" />
+<circle cx="240.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="340.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="390.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="440.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="490.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="540.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="590.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="640.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="690.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="740.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="790.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="840.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="890.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="990.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1040.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1090.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1140.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1190.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1240.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="240.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="290.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="340.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="390.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="440.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="490.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="540.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="590.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="640.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="690.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="740.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="790.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="890.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="940.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="990.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1040.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1090.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1140.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1190.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1240.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1290.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1340.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1390.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1440.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1490.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1540.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1590.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1690.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="128.00" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">A</text>
+<text x="177.93" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">B</text>
+<text x="227.92" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">C</text>
+<text x="277.90" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">D</text>
+<text x="327.87" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">E</text>
+<text x="377.84" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">F</text>
+<text x="427.85" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">G</text>
+<text x="477.83" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">H</text>
+<text x="528.00" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">I</text>
+<text x="578.00" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">J</text>
+<text x="627.75" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">K</text>
+<text x="677.68" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">L</text>
+<text x="727.92" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">M</text>
+<text x="777.72" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">N</text>
+<text x="827.72" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">O</text>
+<text x="877.65" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">P</text>
+<text x="927.68" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">Q</text>
+<text x="977.64" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">R</text>
+<text x="1027.59" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">S</text>
+<text x="1077.53" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">T</text>
+<text x="1127.59" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">U</text>
+<text x="1177.53" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">V</text>
+<text x="1219.68" y="-1728.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">W</text>
+<text x="1278.00" y="-1729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">X</text>
+<text x="48.00" y="-1679.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">030</text>
+<text x="48.00" y="-1629.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">029</text>
+<text x="48.00" y="-1579.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">028</text>
+<text x="48.00" y="-1529.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">027</text>
+<text x="48.00" y="-1479.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">026</text>
+<text x="48.00" y="-1429.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">025</text>
+<text x="48.00" y="-1379.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">024</text>
+<text x="48.00" y="-1329.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">023</text>
+<text x="48.00" y="-1279.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">022</text>
+<text x="48.00" y="-1229.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">021</text>
+<text x="48.00" y="-1179.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">020</text>
+<text x="48.00" y="-1129.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">019</text>
+<text x="48.00" y="-1079.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">018</text>
+<text x="48.00" y="-1029.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">017</text>
+<text x="48.00" y="-979.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">016</text>
+<text x="48.00" y="-929.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">015</text>
+<text x="48.00" y="-879.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">014</text>
+<text x="48.00" y="-829.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">013</text>
+<text x="48.00" y="-779.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">012</text>
+<text x="48.00" y="-729.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">011</text>
+<text x="48.00" y="-679.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">010</text>
+<text x="48.00" y="-629.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">009</text>
+<text x="48.00" y="-579.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">008</text>
+<text x="48.00" y="-529.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">007</text>
+<text x="48.00" y="-479.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">006</text>
+<text x="48.00" y="-429.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">005</text>
+<text x="48.00" y="-379.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">004</text>
+<text x="48.00" y="-329.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">003</text>
+<text x="48.00" y="-279.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">002</text>
+<text x="48.00" y="-229.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.000,1.000)">001</text>
+<circle cx="1820.00" cy="1320.00" r="50.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<circle cx="1820.00" cy="110.00" r="50.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<circle cx="110.00" cy="1320.00" r="50.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<circle cx="110.00" cy="110.00" r="50.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 820 1310 L 820 920 1660 920 1660 1310 820 1310" />
+<circle cx="1640.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="1640.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="940.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<circle cx="840.00" cy="1290.00" r="15.00" fill="none" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="850.13" y="1277.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">In-</text>
+<text x="839.90" y="982.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">In+</text>
+<text x="1560.28" y="1272.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">Out-</text>
+<text x="1550.00" y="977.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">Out+</text>
+<path fill="rgb(0,128,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1270 1015 L 1270 940 1470 940 1470 1015 1270 1015" />
+<circle cx="1292.50" cy="962.50" r="12.50" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="1285.00 972.00 1302.00 955.00 1299.00 952.00 1282.00 969.00 1285.00 972.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<path fill="rgb(192,192,192)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1245 1270 L 1245 1045 1470 1045 1470 1270 1245 1270" />
+<circle cx="1357.50" cy="1157.50" r="87.50" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<circle cx="1577.50" cy="1122.50" r="62.50" fill="rgb(192,192,192)" stroke="rgb(0,0,0)" stroke-width="2" />
+<circle cx="902.50" cy="1117.50" r="62.50" fill="rgb(192,192,192)" stroke="rgb(0,0,0)" stroke-width="2" />
+<path fill="rgb(192,192,192)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 985 1100 L 985 950 1210 950 1210 1100 985 1100" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1085 1200 L 1085 1100 1110 1100 1110 1200 1085 1200" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 985 950 L 985 940 1210 940 1210 950 985 950" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1035 1200 L 1035 1100 1060 1100 1060 1200 1035 1200" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 985 1200 L 985 1100 1010 1100 1010 1200 985 1200" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1135 1200 L 1135 1100 1160 1100 1160 1200 1135 1200" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1185 1200 L 1185 1100 1210 1100 1210 1200 1185 1200" />
+<text x="1030.10" y="1032.00" font-family ="Arial" font-size ="28pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">LM2596</text>
+<text x="926.31" y="1239.28" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.009,1.000)">DC-DC Buck Converter</text>
+<text x="935.05" y="1269.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">Step down</text>
+<text x="935.00" y="1299.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">In: 3,2-46V Out: 1,25-35V Max 10W</text>
+<circle cx="1640" cy="940" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="1640" cy="1290" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="840" cy="940" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="840" cy="1290" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<path fill="none" stroke="rgb(45,45,45)" stroke-width="4" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1665 365 L 1665 715 1240 715 1240 365 1665 365" />
+<circle cx="1290.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1340.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1390.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1440.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1490.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="1" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1465 550 L 1520 550 1520 641 1465 641 1465 550" />
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" d=" M 1508.84 597.40 Q 1509.00 595.50 1508.84 593.60 Q 1508.68 591.69 1508.21 589.86 Q 1507.75 588.04 1506.98 586.35 Q 1506.22 584.66 1505.19 583.19 Q 1504.17 581.71 1502.92 580.49 Q 1501.67 579.28 1500.24 578.38 Q 1498.81 577.48 1497.27 576.93 Q 1495.72 576.38 1494.11 576.19 Q 1492.50 576.00 1490.89 576.19 Q 1489.28 576.38 1487.73 576.93 Q 1486.19 577.48 1484.76 578.38 Q 1483.33 579.28 1482.08 580.49 Q 1480.83 581.71 1479.81 583.19 Q 1478.78 584.66 1478.02 586.35 Q 1477.26 588.04 1476.79 589.86 Q 1476.32 591.69 1476.16 593.60 Q 1476.00 595.50 1476.16 597.40 Q 1476.32 599.30 1476.79 601.13 Q 1477.26 602.95 1478.02 604.64 Q 1478.78 606.33 1479.81 607.80 Q 1480.83 609.28 1482.08 610.50 Q 1483.33 611.71 1484.76 612.61 Q 1486.19 613.51 1487.73 614.07 Q 1489.28 614.62 1490.89 614.81 Q 1492.50 615.00 1494.11 614.81 Q 1495.72 614.62 1497.27 614.07 Q 1498.81 613.51 1500.24 612.61 Q 1501.67 611.71 1502.92 610.50 Q 1504.17 609.28 1505.19 607.80 Q 1506.22 606.33 1506.98 604.64 Q 1507.75 602.95 1508.21 601.13 Q 1508.68 599.30 1508.84 597.40 Z" />
+<circle cx="1540.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1590.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1640.00" cy="690.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1540.00" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1590.00" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1640.00" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="3" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1550 615 L 1550 465 1687 465 1687 615 1550 615" />
+<text x="-381.11" y="1669.00" font-family ="Arial" font-size ="13pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(1.483,1.000)">USB</text>
+<polyline points="1530.00 525.00 1551.82 525.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 515.00 1551.82 515.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 535.00 1551.82 535.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 505.00 1551.82 505.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 565.00 1551.82 565.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 555.00 1551.82 555.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 575.00 1551.82 575.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 545.00 1551.82 545.00" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1530.00 495.00 1551.82 495.00" fill="none" stroke="rgb(128,128,128)" stroke-width="7" />
+<polyline points="1530.00 485.00 1551.82 485.00" fill="none" stroke="rgb(128,128,128)" stroke-width="7" />
+<polyline points="1530.00 595.00 1551.82 595.00" fill="none" stroke="rgb(128,128,128)" stroke-width="7" />
+<polyline points="1530.00 585.00 1551.82 585.00" fill="none" stroke="rgb(128,128,128)" stroke-width="7" />
+<text x="1621.16" y="669.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">5Vin</text>
+<text x="1567.35" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">GND</text>
+<text x="1518.33" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">3.3V</text>
+<text x="1488.54" y="669.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">4</text>
+<text x="1439.54" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">3</text>
+<text x="1389.54" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">2</text>
+<text x="1339.54" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">1</text>
+<text x="1284.53" y="667.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">0</text>
+<polyline points="1448.93 435.00 1457.27 435.00" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1448.93 457.01 1457.27 457.01" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(55,55,55)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1460 435 L 1446 435 1446 457 1460 457 1460 435" />
+<text x="-1302.01" y="-412.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">21</text>
+<text x="-1352.87" y="-411.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">20</text>
+<text x="-1402.00" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">10</text>
+<text x="-1445.47" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">9</text>
+<text x="-1496.33" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">8</text>
+<text x="-1546.32" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">7</text>
+<text x="-1595.45" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">6</text>
+<text x="-1645.45" y="-413.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">5</text>
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="1" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1465 440 L 1520 440 1520 531 1465 531 1465 440" />
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" d=" M 1508.84 487.40 Q 1509.00 485.50 1508.84 483.60 Q 1508.68 481.69 1508.21 479.86 Q 1507.75 478.04 1506.98 476.35 Q 1506.22 474.66 1505.19 473.19 Q 1504.17 471.71 1502.92 470.49 Q 1501.67 469.28 1500.24 468.38 Q 1498.81 467.48 1497.27 466.93 Q 1495.72 466.38 1494.11 466.19 Q 1492.50 466.00 1490.89 466.19 Q 1489.28 466.38 1487.73 466.93 Q 1486.19 467.48 1484.76 468.38 Q 1483.33 469.28 1482.08 470.49 Q 1480.83 471.71 1479.81 473.19 Q 1478.78 474.66 1478.02 476.35 Q 1477.26 478.04 1476.79 479.86 Q 1476.32 481.69 1476.16 483.60 Q 1476.00 485.50 1476.16 487.40 Q 1476.32 489.30 1476.79 491.13 Q 1477.26 492.95 1478.02 494.64 Q 1478.78 496.33 1479.81 497.80 Q 1480.83 499.28 1482.08 500.50 Q 1483.33 501.71 1484.76 502.61 Q 1486.19 503.51 1487.73 504.07 Q 1489.28 504.62 1490.89 504.81 Q 1492.50 505.00 1494.11 504.81 Q 1495.72 504.62 1497.27 504.07 Q 1498.81 503.51 1500.24 502.61 Q 1501.67 501.71 1502.92 500.50 Q 1504.17 499.28 1505.19 497.80 Q 1506.22 496.33 1506.98 494.64 Q 1507.75 492.95 1508.21 491.13 Q 1508.68 489.30 1508.84 487.40 Z" />
+<polyline points="1452.83 641.04 1442.96 641.04" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1452.83 615.00 1442.96 615.00" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1440 615 L 1456 615 1456 641 1440 641 1440 615" />
+<polyline points="1330.00 627.39 1330.00 640.65" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1295.00 627.39 1295.00 640.65" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1295 645 L 1295 623 1330 623 1330 645 1295 645" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1290 498 L 1290 442 1340 442 1340 498 1290 498" />
+<polyline points="1295.00 602.59 1295.00 597.03" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1315.00 602.59 1315.00 597.03" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(55,55,55)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1295 595 L 1295 605 1315 605 1315 595 1295 595" />
+<polyline points="1295.00 615.82 1295.00 610.26" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1315.00 615.82 1315.00 610.26" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(55,55,55)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1295 609 L 1295 618 1315 618 1315 609 1295 609" />
+<circle cx="1290.00" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1340.00" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1389.84" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1439.84" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="1489.84" cy="390.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<polyline points="1273.70 585.00 1251.15 585.00" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1273.70 469.74 1251.15 469.74" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(255,0,0)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1245 585 L 1282 585 1282 470 1245 470 1245 585" />
+<path fill="rgb(255,255,255)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1245 585 L 1282 585 1282 568 1245 568 1245 585" />
+<text x="-470.76" y="1270.00" font-family ="Arial" font-size ="18pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(-90.000) scale(1.196,1.000)">C3</text>
+<polyline points="1376.44 491.14 1368.84 483.54" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1368.84 498.74 1361.24 491.14" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1361.24 506.34 1353.64 498.74" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1353.64 513.93 1346.04 506.33" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1346.04 521.53 1338.44 513.93" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1338.44 529.13 1330.84 521.54" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1330.84 536.73 1323.24 529.14" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1323.25 544.33 1315.65 536.73" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1452.43 567.12 1444.83 559.53" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1444.83 574.73 1437.23 567.13" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1437.22 582.33 1429.62 574.73" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1429.63 589.92 1422.03 582.32" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1422.03 597.52 1414.43 589.92" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1414.43 605.12 1406.83 597.52" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1406.83 612.72 1399.23 605.12" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1399.24 620.32 1391.64 612.72" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1399.23 483.54 1391.64 491.13" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1406.83 491.14 1399.24 498.73" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1414.43 498.74 1406.84 506.33" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1422.03 506.34 1414.44 513.93" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1429.63 513.94 1422.03 521.53" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1437.22 521.54 1429.63 529.13" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1444.82 529.13 1437.23 536.73" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1452.42 536.73 1444.83 544.33" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1323.25 559.53 1315.64 567.13" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1330.84 567.13 1323.24 574.73" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1338.44 574.73 1330.84 582.33" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1346.04 582.32 1338.44 589.93" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1353.64 589.92 1346.04 597.52" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1361.24 597.52 1353.64 605.12" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1368.84 605.12 1361.24 612.72" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<polyline points="1376.44 612.72 1368.84 620.32" fill="none" stroke="rgb(128,128,128)" stroke-width="5" />
+<path fill="rgb(55,55,55)" stroke="rgb(55,55,55)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1452 552 L 1386 485 1317 554 1384 620 1452 552" />
+<text x="539.85" y="1358.06" font-family ="Arial" font-size ="16pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(-45.000) scale(1.003,1.000)">ESP32-C3</text>
+<text x="550.93" y="1391.49" font-family ="Arial" font-size ="16pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(-45.000) scale(1.003,1.000)">232023</text>
+<text x="-380.61" y="1416.19" font-family ="Arial" font-size ="5pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(-90.000) scale(1.229,1.000)">AMS1117</text>
+<polyline points="1431.96 450.69 1423.15 450.69" fill="none" stroke="rgb(128,128,128)" stroke-width="8" />
+<polyline points="1431.96 465.51 1396.06 465.51" fill="none" stroke="rgb(128,128,128)" stroke-width="8" />
+<polyline points="1431.96 435.86 1396.06 435.86" fill="none" stroke="rgb(128,128,128)" stroke-width="8" />
+<path fill="rgb(55,55,55)" stroke="rgb(55,55,55)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1423 469 L 1423 432 1404 432 1404 469 1423 469" />
+<polyline points="1369.16 435.00 1377.50 435.00" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<polyline points="1369.16 457.01 1377.50 457.01" fill="none" stroke="rgb(128,128,128)" stroke-width="9" />
+<path fill="rgb(55,55,55)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1380 435 L 1366 435 1366 457 1380 457 1380 435" />
+<text x="1994.81" y="459.00" font-family ="Arial" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(0.734,1.000)">BOOT</text>
+<text x="2067.43" y="639.00" font-family ="Arial" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(0.711,1.000)">RST</text>
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 1140 L 365 1140 365 1240 215 1240 215 1140" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 1240 L 365 1240 365 1340 215 1340 215 1240" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 1040 L 365 1040 365 1140 215 1140 215 1040" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 940 L 365 940 365 1040 215 1040 215 940" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 840 L 365 840 365 940 215 940 215 840" />
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 215 740 L 365 740 365 840 215 840 215 740" />
+<circle cx="290" cy="1290" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="290" cy="990" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="290" cy="790" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="290" cy="890" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="290" cy="1090" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<circle cx="290" cy="1190" r="6" fill="rgb(0,0,0)" stroke="none" stroke-width="2" />
+<text x="105.00" y="1304.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">GND</text>
+<text x="105.00" y="1194.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">12V+</text>
+<text x="105.00" y="1094.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">12V+</text>
+<text x="105.00" y="994.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">G (-)</text>
+<text x="105.00" y="894.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">Y (-)</text>
+<text x="110.00" y="794.00" font-family ="Arial" font-size ="21pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">R (-)</text>
+<polyline points="290.00 1290.00 1640.00 1290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1640.00 940.00 1640.00 690.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1590.00 690.00 1590.00 1290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="290.00 1190.00 290.00 1090.00 840.00 1090.00 840.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 623 965 L 623 967 655 967 655 965 623 965" />
+<polyline points="640.00 964.83 640.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="634.44 964.83 612.22 989.67 590.00 989.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="645.56 964.83 667.78 989.67 690.00 989.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="656 981 662 978 664 986" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="-1297.73" y="611.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.745,1.000)">T2</text>
+<text x="-1255.15" y="678.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.764,1.000)"></text>
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 623 865 L 623 867 655 867 655 865 623 865" />
+<polyline points="640.00 864.83 640.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="634.44 864.83 612.22 889.67 590.00 889.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="645.56 864.83 667.78 889.67 690.00 889.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="656 881 662 878 664 886" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="-1163.50" y="611.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.745,1.000)">T3</text>
+<text x="-1124.27" y="678.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.764,1.000)"></text>
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 623 765 L 623 767 655 767 655 765 623 765" />
+<polyline points="640.00 764.83 640.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="634.44 764.83 612.22 789.67 590.00 789.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="645.56 764.83 667.78 789.67 690.00 789.67" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="656 781 662 778 664 786" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="-1029.27" y="611.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.745,1.000)">T4</text>
+<text x="-993.40" y="678.11" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(0.764,1.000)"></text>
+<polyline points="290.00 790.00 590.00 790.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="290.00 890.00 590.00 890.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="290.00 990.00 590.00 990.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 990.00 790.00 990.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 890.00 790.00 890.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 790.00 790.00 790.00 790.00 1040.00" fill="none" stroke="rgb(0,0,0)" stroke-width="9" />
+<path fill="none" stroke="rgb(45,45,45)" stroke-width="4" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 265 615 L 265 165 690 165 690 615 265 615" />
+<circle cx="590.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="540.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="490.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="440.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="390.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="340.00" cy="190.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="440.00" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="390.00" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="340.00" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<path fill="rgb(192,192,192)" stroke="none" stroke-width="3" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 655 235 L 655 545 243 545 243 235 655 235" />
+<text x="242.83" y="-261.00" font-family ="Arial" font-size ="13pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-270.000) scale(1.483,1.000)">ETH</text>
+<text x="-362.54" y="-213.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">GND</text>
+<text x="-411.73" y="-213.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">3.3V</text>
+<text x="-462.74" y="-211.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">3.3V</text>
+<text x="-505.26" y="-211.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">NC</text>
+<text x="-560.54" y="-213.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">RST</text>
+<text x="-613.54" y="-213.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-180.000) scale(1.000,1.000)">MISO</text>
+<text x="576.56" y="569.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">INT</text>
+<text x="525.89" y="568.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">CS</text>
+<text x="464.05" y="568.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">SCLK</text>
+<text x="406.42" y="567.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">MOSI</text>
+<text x="358.39" y="567.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">GND</text>
+<text x="309.26" y="567.00" font-family ="Arial" font-size ="17pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">GND</text>
+<circle cx="590.16" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="540.16" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<circle cx="490.16" cy="590.00" r="10.00" fill="rgb(255,255,0)" stroke="rgb(80,80,80)" stroke-width="12" />
+<polyline points="340.00 190.00 340.00 590.00 390.00 590.00 390.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="390.00 1290.00 390.00 1240.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="390.00 740.00 390.00 1240.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="590.00 190.00 1640.00 190.00 1640.00 390.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1490.00 690.00 1490.00 840.00 890.00 840.00 890.00 690.00 490.00 690.00 490.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1540.00 690.00 1540.00 890.00 840.00 890.00 840.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="390.00 190.00 440.00 190.00 440.00 290.00 840.00 290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1590.00 390.00 1590.00 240.00 740.00 240.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="740.00 340.00 440.00 340.00 440.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="740.00 340.00 740.00 240.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="1390.00 690.00 1390.00 740.00 990.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="990.00 140.00 540.00 140.00 540.00 190.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1540.00 390.00 1540.00 290.00 890.00 290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="890.00 390.00 540.00 390.00 540.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="890.00 290.00 890.00 390.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="1390.00 390.00 1390.00 340.00 1190.00 340.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1340.00 390.00 1340.00 590.00 1190.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1290.00 390.00 1290.00 540.00 1190.00 540.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 600 725 L 600 755 530 755 530 725 600 725" />
+<polyline points="640.00 740.00 600.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="530.00 740.00 490.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="540.00" y="749.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">100k</text>
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 600 825 L 600 855 530 855 530 825 600 825" />
+<polyline points="640.00 840.00 600.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="530.00 840.00 490.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="540.00" y="849.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">100k</text>
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 600 925 L 600 955 530 955 530 925 600 925" />
+<polyline points="640.00 940.00 600.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="530.00 940.00 490.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="540.00" y="949.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">100k</text>
+<polyline points="490.00 840.00 440.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="490.00 740.00 390.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 740.00 640.00 740.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="690.00 840.00 640.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="690.00 940.00 640.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="440.00 840.00 440.00 1240.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="490.00 940.00 490.00 1240.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="440.00 1290.00 440.00 1240.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="490.00 1290.00 490.00 1240.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="740.00 540.00 740.00 840.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1150 575 L 1150 605 1080 605 1080 575 1150 575" />
+<polyline points="1190.00 590.00 1150.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="1080.00 590.00 1040.00 590.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="1090.00" y="599.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">2.2k</text>
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1150 525 L 1150 555 1080 555 1080 525 1150 525" />
+<polyline points="1190.00 540.00 1150.00 540.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="1080.00 540.00 1040.00 540.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="1090.00" y="549.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">2.2k</text>
+<path fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 1150 325 L 1150 355 1080 355 1080 325 1150 325" />
+<polyline points="1190.00 340.00 1150.00 340.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="1080.00 340.00 1040.00 340.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="1090.00" y="349.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">2.2k</text>
+<polyline points="1040.00 340.00 940.00 340.00 940.00 440.00 690.00 440.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="1040.00 540.00 740.00 540.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 840.00 740.00 840.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="690.00 740.00 690.00 440.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="1040.00 590.00 1040.00 1190.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="740.00 940.00 740.00 1190.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="690.00 940.00 740.00 940.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="740.00 1190.00 1040.00 1190.00" fill="none" stroke="rgb(0,0,0)" stroke-width="8" />
+<polyline points="840.00 290.00 840.00 740.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="790.00 1290.00 790.00 1040.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+<polyline points="990.00 140.00 990.00 740.00" fill="none" stroke="rgb(0,255,0)" stroke-width="8" />
+</svg>

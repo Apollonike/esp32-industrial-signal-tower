@@ -197,3 +197,9 @@ The hardware design prioritizes:
 * easy maintainability
 
 Given the extremely small current consumption of the LED tower, a simple transistor driver stage provides **more than sufficient electrical margin**.
+
+## Prototype Implementation
+
+The first hardware prototype is documented here:
+
+[Prototype Rev.A](led_tower_prototype_rev_a.md)
