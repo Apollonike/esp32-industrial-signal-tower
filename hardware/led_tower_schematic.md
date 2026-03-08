@@ -1,3 +1,6 @@
+[⬅ Back to Hardware Architecture](../docs/hardware_architecture.md)
+
+---
 # LED Signal Tower – Schematic Description
 
 ## Overview
