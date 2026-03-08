@@ -162,28 +162,28 @@ can be found in the following documents.
 Complete description of the LED tower controller hardware design,
 including power architecture and switching concept.
 
-* [LED Tower Hardware Design](hardware/led_tower_design.md)
+* [LED Tower Hardware Design](../hardware/led_tower_design.md)
 
 ## Electrical Measurements
 
 Measured current consumption and electrical characteristics of the LED
 tower modules used in the prototype.
 
-* [LED Tower Electrical Measurements](hardware/led_tower_measurements.md)
+* [LED Tower Electrical Measurements](../hardware/led_tower_measurements.md)
 
 ## Schematic Description
 
 Detailed explanation of the switching stage, GPIO mapping, and connector
 layout.
 
-* [LED Tower Schematic Description](hardware/led_tower_schematic.md)
+* [LED Tower Schematic Description](../hardware/led_tower_schematic.md)
 
 ## System Block Diagram
 
 High-level system architecture showing the relationship between power
 supply, controller, and LED tower modules.
 
-* [LED Tower Block Diagram](hardware/led_tower_blockdiagram.md)
+* [LED Tower Block Diagram](../hardware/led_tower_blockdiagram.md)
 
 ---
 
