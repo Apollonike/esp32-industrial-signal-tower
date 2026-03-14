@@ -1,10 +1,10 @@
 # System Documentation
 
-This directory contains the architectural and technical documentation of
-the ESP32 Industrial Signal Tower controller.
+This directory contains the architectural documentation of the
+ESP32 Industrial Signal Tower controller.
 
-The documents in this section describe the system design, hardware
-architecture, firmware behavior, and prototype implementations.
+The documents in this section describe the overall system design,
+independent of specific hardware implementation details.
 
 ---
 
@@ -24,65 +24,43 @@ including power distribution, controller module, and output stage.
 
 - [Hardware Architecture](hardware_architecture.md)
 
----
+## Power Architecture
 
-# Hardware Design
+Description of the system power concept, including the 12 V rail and
+controller supply generation.
 
-## LED Tower Hardware Design
+- [Power Architecture](power_architecture.md)
 
-Description of the electrical design of the LED signal tower controller.
+## Network and Reliability
 
-- [LED Tower Design](led_tower_design.md)
+Description of network communication, reliability considerations,
+and behavior during communication failures.
 
-## LED Tower Schematic
+- [Network and Reliability](network_and_reliability.md)
 
-Detailed description of the transistor switching stage and LED tower
-wiring.
+## Use Cases
 
-- [LED Tower Schematic](led_tower_schematic.md)
+Example deployment scenarios and practical applications of the
+signal tower controller.
 
----
-
-# Prototype Implementations
-
-## Prototype Revision A
-
-Initial prototype layout and construction.
-
-- [Prototype Rev.A](led_tower_prototype_rev_a.md)
-
-## Prototype Revision B
-
-Updated prototype layout adjusted for the 28-row perfboard.
-
-- [Prototype Rev.B](led_tower_prototype_rev_b.md)
-
----
-
-# Firmware Behavior
-
-Description of the ESPHome firmware behavior including:
-
-- signal states
-- heartbeat supervision
-- Home Assistant integration
-
-- [Software Behavior](software_behavior.md)
+- [Use Cases](use_cases.md)
 
 ---
 
 # Images
 
-Architecture diagrams, screenshots, and prototype photos are stored in:
+Architecture diagrams and supporting images are stored in:
 
-
-docs/images/
-
+`docs/images/`
 
 ---
 
 # Related Documentation
 
-Additional project documentation can be found in the repository root.
+Detailed hardware design and prototype documentation can be found in:
 
-- [Project Overview](../README.md)
+- [Hardware Documentation](../hardware/README.md)
+
+Project overview:
+
+- [Project README](../README.md)
