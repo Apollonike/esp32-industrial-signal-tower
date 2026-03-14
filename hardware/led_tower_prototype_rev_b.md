@@ -2,6 +2,10 @@
 
 # LED Signal Tower – Prototype Rev.B
 
+<p align="center">
+  <img src="../docs/images/pcb_prototype_b_pic_01.png" width="400">
+</p>
+
 ## Overview
 
 Prototype Rev.B is a minor mechanical revision of the initial prototype.
