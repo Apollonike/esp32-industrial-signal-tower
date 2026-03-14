@@ -61,7 +61,7 @@ The final firmware used for the signal tower prototype integrates
 all hardware components and implements the operational signalling
 logic used by the monitoring system.
 
-- [led_tower_01.yaml](led_tower_01.yaml)
+- [led_tower.yaml](led_tower.yaml)
 
 This firmware provides the following features:
 
