@@ -64,6 +64,48 @@ setup simple.
 Functionally this is equivalent to using the 12 V output of a PoE
 splitter.
 
+---
+
+# Hardware Validation
+
+The following hardware subsystems have been validated using ESPHome
+test firmware.
+
+## Power Supply
+
+- LM2596 step-down converter provides stable supply voltage
+- ESP32-C3 boots reliably
+
+## Output Stage
+
+- transistor-based low-side switching verified
+- LED tower segments respond correctly to GPIO signals
+
+## Ethernet Connectivity
+
+The W5500 SPI Ethernet module was successfully tested.
+
+Results:
+
+- SPI communication with W5500 operational
+- DHCP address successfully obtained
+- Ethernet link negotiated at **100 Mbit full duplex**
+- ESPHome API accessible over wired network
+
+Example log output:
+
+
+Connected
+IP Address: 192.168.1.100
+Link Speed: 100
+Is Full Duplex: YES
+
+
+This confirms correct electrical integration of the Ethernet module
+and SPI bus configuration.
+
+---
+
 ## Summary
 
 Rev.B represents a **mechanical adjustment** of the prototype layout

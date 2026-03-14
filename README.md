@@ -72,10 +72,14 @@ The project has progressed beyond the initial concept phase.
 Current status:
 
 - hardware architecture defined
-- low-side transistor output stage validated
 - perfboard prototype Rev.B assembled
-- basic ESPHome GPIO test firmware working
-- documentation under active refinement
+- transistor output stage validated
+- ESPHome firmware running
+- W5500 Ethernet connectivity verified
+- DHCP networking operational
+
+Documentation and firmware examples are included to allow
+reproduction of the prototype.
 
 ---
 

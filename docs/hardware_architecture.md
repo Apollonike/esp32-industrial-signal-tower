@@ -198,6 +198,21 @@ supply, controller, and LED tower modules.
 
 -   [LED Tower Block Diagram](../hardware/led_tower_blockdiagram.md)
 
+# Prototype Status
+
+The hardware architecture has been validated using a perfboard
+prototype (Prototype Rev.B).
+
+Validated subsystems include:
+
+- ESP32-C3 controller module
+- LM2596 power supply stage
+- transistor-based LED driver stage
+- W5500 SPI Ethernet interface
+
+Further integration with monitoring systems and automation platforms
+is performed via ESPHome firmware.
+
 ------------------------------------------------------------------------
 
 # Related Documentation
