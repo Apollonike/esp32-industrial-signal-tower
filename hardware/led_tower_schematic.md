@@ -247,13 +247,12 @@ The LED tower is connected using a **4-pin connector**.
 
 The system power architecture is intentionally simple.
 
-    PoE
-     │
-     └── PoE Splitter / DC-DC
-            │
-            ├── 12 V rail → LED tower
-            │
-            └── Step-Down Converter → ESP32 supply
+```mermaid
+flowchart LR
+    A[12 V System Rail] --> B[LED Tower]
+    A --> C[Step-Down Converter]
+    C --> D[ESP32 Supply]
+```
 
 ------------------------------------------------------------------------
 

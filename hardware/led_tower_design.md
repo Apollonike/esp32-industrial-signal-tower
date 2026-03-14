@@ -1,11 +1,11 @@
-[⬅ Back to Hardware Architecture](../docs/hardware_architecture.md)
+[⬅ Back to Hardware Overview](README.md)
 
 ---
 # LED Signal Tower – Hardware Design
 
 ## Overview
 
-This document describes the hardware design of the PoE-powered LED signal tower controller.
+This document describes the hardware design of the network-capable LED signal tower controller. Supports external 12 V supply or PoE-based deployment.
 
 The system is built around an **ESP32-C3** and is designed to integrate a simple LED signal tower into existing automation environments such as:
 
@@ -229,5 +229,5 @@ The hardware design was validated using several physical prototype revisions.
 
 Detailed documentation of each prototype can be found here:
 
-[Prototype Rev.A](led_tower_prototype_rev_a.md)
-[Prototype Rev.B](led_tower_prototype_rev_b.md)
+- [Prototype Rev.A](led_tower_prototype_rev_a.md)
+- [Prototype Rev.B](led_tower_prototype_rev_b.md)
