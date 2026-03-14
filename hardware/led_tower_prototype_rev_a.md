@@ -1,4 +1,4 @@
-[⬅ Back to Hardware Architecture](../docs/hardware_architecture.md)
+[⬅ Back to Hardware Overview](README.md)
 
 # LED Tower Hardware – Prototype Rev.A
 
