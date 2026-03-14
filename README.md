@@ -55,13 +55,30 @@ technical environments.
 
 # Documentation
 
-Detailed design documentation is available in the `docs` directory.
+Detailed project documentation is available in the `docs` directory.
+
+## Architecture
 
 - [System Architecture](docs/system_architecture.md)
-- [Use Cases](docs/use_cases.md)
 - [Hardware Architecture](docs/hardware_architecture.md)
 - [Power Architecture](docs/power_architecture.md)
+
+## System Integration
+
 - [Network and Reliability](docs/network_and_reliability.md)
+- [Network Setup](docs/network_setup.md)
+
+## Operation
+
+- [Software Behavior](docs/software_behavior.md)
+- [Use Cases](docs/use_cases.md)
+
+## Hardware Implementation
+
+Detailed hardware documentation including schematics and prototype
+build notes:
+
+- [Hardware Documentation](hardware/README.md)
 
 ---
 
@@ -80,6 +97,12 @@ Current status:
 
 Documentation and firmware examples are included to allow
 reproduction of the prototype.
+
+## Firmware Examples
+
+Example ESPHome configurations used during development are available in:
+
+- [Firmware Examples](firmware/esphome/README.md)
 
 ## Firmware Behavior
 
