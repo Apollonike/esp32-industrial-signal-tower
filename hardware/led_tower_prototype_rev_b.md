@@ -1,6 +1,5 @@
-[⬅ Back to Hardware Design](led_tower_design.md)
+[⬅ Back to Hardware Overview](README.md)
 
----
 # LED Signal Tower – Prototype Rev.B
 
 ## Overview
@@ -49,9 +48,21 @@ No firmware changes were required.
 
 ## Prototype Layout
 
-![Prototype Rev.B PCB](../docs/images/pcb_prototype_rev_b.png)
+![Prototype Rev.B PCB](../docs/images/pcb_prototype_rev_b.svg)
 
 ---
+
+## Power Supply Used in Prototype
+
+The prototype is currently powered by a simple external **12 V DC power
+supply** connected to the input terminals.
+
+While the system is designed to support **PoE powered deployments**, the
+PoE hardware is not used in this prototype in order to keep the hardware
+setup simple.
+
+Functionally this is equivalent to using the 12 V output of a PoE
+splitter.
 
 ## Summary
 

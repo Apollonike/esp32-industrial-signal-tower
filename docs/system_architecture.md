@@ -76,56 +76,69 @@ monitoring platform.
 
 ## ESP32 Controller
 
-The ESP32 acts as the central control unit.
+The ESP32 acts as the central control unit of the system.
 
 Responsibilities include:
 
--   receiving control commands
--   mapping system states to signal outputs
--   controlling the switching stage
--   managing communication with the monitoring system
+- receiving control commands
+- mapping system states to signal outputs
+- controlling the switching stage
+- managing communication with external monitoring systems
 
-Depending on the hardware configuration, the controller may use:
+The controller communicates with external systems using standard
+network protocols.
 
--   Ethernet connectivity
--   Power over Ethernet (PoE)
--   Wi-Fi (primarily for development environments)
+Depending on the deployment scenario, different connectivity options
+may be used, such as:
 
-For infrastructure-oriented deployments, **wired Ethernet is the
-preferred communication medium** due to improved reliability and
-operational stability.
+- wired Ethernet
+- Wi-Fi
+- Ethernet combined with external power sources
+
+For infrastructure-oriented deployments, **wired Ethernet is typically
+preferred** due to improved reliability and operational stability.
+
+The exact hardware configuration (for example power supply or Ethernet
+interface modules) depends on the specific installation and is
+described in the hardware documentation.
 
 ------------------------------------------------------------------------
 
 ## Switching Stage
 
 The switching stage connects the low-voltage control signals of the
-ESP32 to the signal tower modules.
+ESP32 controller to the signal tower modules.
 
-Typical implementations may include:
+Its purpose is to translate the microcontroller GPIO signals into
+electrical switching of the individual tower segments.
 
--   MOSFET switching stages
--   driver modules
--   relay modules (optional)
+Depending on the hardware implementation, the switching stage may use
+different driver circuits suitable for the required voltage and current
+levels.
 
 The switching stage activates the individual signal outputs of the
 tower.
+
+Details of the electrical implementation are described in the
+hardware design documentation.
 
 ------------------------------------------------------------------------
 
 ## Power Module
 
-A DC-DC power module provides the required operating voltage for the
-signal tower.
+A power module provides the required operating voltages for both the
+controller and the signal tower.
 
-Possible configurations include:
+Depending on the deployment scenario, different power sources may be
+used, such as:
 
--   local DC power supply
--   step-up converter from 5V to 12V
--   PoE powered system with integrated step-up conversion
+- local DC power supplies
+- Power over Ethernet (PoE) splitters
+- external power adapters
 
-The modular power stage simplifies replacement and reduces electrical
-design complexity.
+Voltage conversion stages may be used where required. The exact
+electrical implementation is described in the hardware design
+documentation.
 
 ------------------------------------------------------------------------
 
