@@ -65,15 +65,17 @@ Detailed design documentation is available in the `docs` directory.
 
 ---
 
-# Project Status
+## Project Status
 
-🚧 Early concept phase
+The project has progressed beyond the initial concept phase.
 
-Current focus:
+Current status:
 
-- defining the system architecture
-- evaluating hardware approaches
-- documenting the design concepts
+- hardware architecture defined
+- low-side transistor output stage validated
+- perfboard prototype Rev.B assembled
+- basic ESPHome GPIO test firmware working
+- documentation under active refinement
 
 ---
 

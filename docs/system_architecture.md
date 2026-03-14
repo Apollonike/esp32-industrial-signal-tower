@@ -19,9 +19,8 @@ translates them into visual signals using an industrial LED tower.
 flowchart LR
     A[Monitoring System<br/>Checkmk / Zabbix / Prometheus / Scripts] --> B[Integration Layer<br/>MQTT / REST / Webhook / Automation]
     B --> C[ESP32 Controller]
-    C --> D[Switching Stage]
-    D --> E[DC-DC Power Module]
-    E --> F[Industrial Signal Tower]
+    C --> D[Output Stage]
+    D --> E[Signal Device]
 ```
 
 The architecture separates the system into several logical layers:
@@ -107,30 +106,26 @@ described in the hardware documentation.
 ## Switching Stage
 
 The switching stage connects the low-voltage control signals of the
-ESP32 controller to the signal tower modules.
+ESP32 controller to the external signaling device.
 
-Its purpose is to translate the microcontroller GPIO signals into
-electrical switching of the individual tower segments.
+Its purpose is to translate microcontroller GPIO signals into
+electrical switching of the individual signal channels.
 
 Depending on the hardware implementation, the switching stage may use
 different driver circuits suitable for the required voltage and current
 levels.
 
-The switching stage activates the individual signal outputs of the
-tower.
-
-Details of the electrical implementation are described in the
-hardware design documentation.
+Further details are described in the hardware design documentation.
 
 ------------------------------------------------------------------------
 
 ## Power Module
 
 A power module provides the required operating voltages for both the
-controller and the signal tower.
+controller and the signal device.
 
-Depending on the deployment scenario, different power sources may be
-used, such as:
+Depending on the deployment scenario, the system may use different
+power sources such as:
 
 - local DC power supplies
 - Power over Ethernet (PoE) splitters

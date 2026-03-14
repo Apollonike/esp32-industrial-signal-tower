@@ -67,6 +67,26 @@ Initial idea:
  └── Boost → LED GREEN
 ```
 
+# Design Evolution
+
+During early development stages the electrical characteristics of the
+LED tower were not fully known.
+
+To ensure compatibility with a wider range of possible signal tower
+modules, an initial architecture using dedicated step-up converters per
+channel was considered.
+
+Prototype measurements later showed that the selected LED tower:
+
+- operates directly from **12 V**
+- has very low current consumption
+- can be wired using **common +12 V**
+
+These findings made dedicated boost converters unnecessary.
+
+The final design therefore uses a **12 V system rail** for the signal
+tower and a **step-down converter** for the ESP32 controller supply.
+
 ### Motivation
 
 * compatibility with unknown LED modules

@@ -81,7 +81,7 @@ preferred** due to higher reliability and operational stability.
 
 # Output Stage
 
-The output stage connects the low‑voltage GPIO signals of the ESP32 to
+The output stage connects the low-voltage GPIO signals of the ESP32 to
 the external signaling device.
 
 Its purpose is to translate microcontroller control signals into
@@ -92,12 +92,12 @@ target hardware.
 
 Typical implementations may include:
 
--   transistor-based low-side switching stages
--   MOSFET driver stages
--   relay modules for switching external loads
+* transistor-based low-side switching stages
+* MOSFET driver stages
+* relay modules for switching external loads
 
-The current prototype uses a **simple transistor-based driver stage** to
-control a low‑power LED signal tower.
+The current prototype uses a **simple transistor-based driver stage**
+to control a low-power LED signal tower.
 
 Because the controller only provides logic-level control signals, the
 output stage can be replaced or extended without modifying the core
@@ -115,14 +115,14 @@ power conversion stage**.
 
 Possible power sources include:
 
--   external DC power supplies
--   PoE splitters
--   dedicated DC adapters
+* external DC power supplies
+* PoE splitters
+* dedicated DC adapters
 
 In the current prototype configuration, the system uses a **12V system
 rail** which directly powers the LED tower.
 
-A **step‑down converter** is used to generate the supply voltage for the
+A **step-down converter** is used to generate the supply voltage for the
 ESP32 controller.
 
 This architecture minimizes the number of power conversion stages and
