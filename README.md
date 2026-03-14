@@ -81,6 +81,12 @@ Current status:
 Documentation and firmware examples are included to allow
 reproduction of the prototype.
 
+## Firmware Behavior
+
+The runtime behavior of the signal tower firmware is documented here:
+
+[Software Behavior](docs/software_behavior.md)
+
 ---
 
 # License
