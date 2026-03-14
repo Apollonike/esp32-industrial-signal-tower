@@ -1,11 +1,12 @@
 [⬅ Back to Hardware Architecture](../docs/hardware_architecture.md)
 
   ------------------
-  \# LED Signal
+  
+  # LED Signal
   Tower -- Schematic
   Description
 
-  \## Overview
+  ## Overview
 
   This document
   describes the
@@ -29,6 +30,7 @@
   controlled by an
   **ESP32-C3**
   microcontroller.
+  
   ------------------
 
 # Output Switching Topology
@@ -37,33 +39,6 @@ The LED tower is wired with a **common +12 V supply**.
 
 Each LED segment is switched on the **low side** using an NPN
 transistor.
-
-This topology simplifies the design and allows direct control from ESP32
-GPIO pins.
-
-------------------------------------------------------------------------
-
-# Simplified Output Circuit
-
-                 +12 V
-                   │
-                   │
-              LED Segment
-                   │
-                   │
-                 Collector
-                    │
-                 NPN Transistor
-                    │
-                 Emitter
-                    │
-                   GND
-
-    ESP GPIO ── 2.2 kΩ ── Base
-                         │
-                       100 kΩ
-                         │
-                        GND
 
 ------------------------------------------------------------------------
 
@@ -202,9 +177,9 @@ Example configuration:
 
   ESP32-C3 GPIO   Function
   --------------- ------------
-  GPIO4           LED_RED
-  GPIO5           LED_YELLOW
-  GPIO6           LED_GREEN
+  GPIO10          LED_RED
+  GPIO21          LED_YELLOW
+  GPIO20          LED_GREEN
 
 Only standard GPIO pins should be used to avoid conflicts with boot or
 flash functions.
