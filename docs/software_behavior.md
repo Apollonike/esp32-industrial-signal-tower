@@ -173,3 +173,35 @@ Example use cases include:
 - server health indication
 - CI pipeline status display
 - lab status indication
+
+## ESPHome Device
+
+Example device in the ESPHome dashboard.
+
+![ESPHome Device](images/esphome_dashboard.png)
+
+## Home Assistant Control
+
+The tower state can be controlled via Home Assistant.
+
+![Home Assistant Dashboard](images/ha_dashboard_tile.png)
+![Home Assistant Dashboard](images/ha_entity_setup.png)
+
+## Heartbeat Supervision
+
+The tower supports an optional heartbeat supervision.
+
+Home Assistant periodically sends a heartbeat ping to the device.
+
+If no heartbeat is received within the timeout period, the tower
+switches to a communication failure signal.
+
+Signal pattern:
+
+All LEDs ON for 0.5 seconds every 3 seconds.
+
+This indicates that the displayed status information may no longer
+be valid.
+
+When a heartbeat is received again the tower switches to **Off**.
+The previous state is not restored automatically.
