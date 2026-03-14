@@ -14,7 +14,7 @@ The prototype is built on perfboard using plug-in modules.
 
 ## Layout
 
-![Prototype PCB Layout](../images/pcb_prototype_rev_a.svg)
+![Prototype PCB Layout](../docs/images/pcb_prototype_rev_a.svg)
 
 The layout was created using sPlan and implemented on perfboard.
 
