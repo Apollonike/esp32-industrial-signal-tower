@@ -80,41 +80,33 @@ P ≈ 0.223 W
 
 No measurable inrush current was detected using the available measurement equipment.
 
-The LED modules appear to contain internal current limiting components.
+The LED modules appear to draw a stable and very low current immediately after switching.
 
----
-
-# Observed Electrical Characteristics
-
-Key observations:
-
-* extremely low current consumption
-* stable operation at ~12 V
-* no detectable startup current spike
-* LED modules operate independent of polarity
+This is consistent with the assumption that the tower contains internal current limiting electronics.
 
 ---
 
 # Design Implications
 
-These measurements confirm that the LED tower represents a **very small electrical load**.
+The measured load is extremely small.
+
+This confirms that the prototype LED tower represents a **very small electrical load**.
 
 Implications for the hardware design:
 
 * relay outputs are unnecessary
-* boost converters are unnecessary
+* additional voltage conversion stages are unnecessary
 * transistor switching is fully sufficient
 * thermal stress on switching components is negligible
 
-The dominant power consumption of the system will be the controller electronics rather than the LED tower itself.
+The dominant power consumption of the controller assembly is therefore expected to come from the ESP32 and optional network hardware rather than the LED modules themselves.
 
 ---
 
-# Future Measurements
+# Conclusion
 
-Additional measurements may be added later:
+The measured current consumption confirms that the selected transistor-based driver stage is more than sufficient for the prototype LED tower.
 
-* operation at different voltages
-* long-term stability tests
-* temperature measurements under enclosure conditions
-* full system power consumption including ESP32 and network interface
+No heavy switching devices are required for the current hardware revision.
+
+This validates the chosen design direction for the prototype system.

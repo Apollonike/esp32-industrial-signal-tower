@@ -21,15 +21,21 @@ the deployment scenario.
 
 ``` mermaid
 flowchart LR
-    A[Local DC Supply<br/>12V / 24V] --> B[Controller Power Stage]
-    C[PoE Switch] --> D[PoE Module / PoE HAT]
+    A[Local DC Supply<br/>12V / 24V] --> B[12V System Rail]
+    C[PoE Switch] --> D[PoE Splitter]
     D --> B
-    B --> E[Step-Up Converter]
-    E --> F[Industrial Signal Tower]
+    B --> E[Step-Down Converter]
+    E --> F[ESP32 Controller]
+    B --> G[Industrial Signal Tower]
 ```
 
 The architecture allows the controller to operate in environments where
 either local power supplies or PoE network infrastructure are available.
+
+The signal tower is powered directly from the **12V system rail**.
+
+The controller supply voltage is generated locally using a
+**step-down converter**.
 
 ------------------------------------------------------------------------
 
@@ -39,7 +45,8 @@ The simplest configuration uses a local DC power supply.
 
 Typical configuration:
 
-    12V / 24V power supply → controller → signal tower
+    12V / 24V power supply → system rail → signal tower
+                              └→ step-down converter → ESP controller
 
 This configuration is straightforward but requires dedicated power
 wiring.
@@ -75,7 +82,8 @@ Using PoE allows the signal tower controller to be installed with a
 
 Typical architecture:
 
-    PoE switch → PoE module → ESP controller → step-up converter → signal tower
+    PoE switch → PoE splitter → 12V system rail → signal tower
+                                  └→ step-down converter → ESP controller
 
 Advantages:
 
@@ -87,30 +95,27 @@ Advantages:
 
 ------------------------------------------------------------------------
 
-# Step-Up Converter
+# Voltage Conversion
 
-Industrial signal towers typically operate at **12V or 24V**, while many
-embedded controllers operate at **5V or 3.3V**.
+Industrial signal towers typically operate at **12V or 24V**, while the
+ESP32 controller electronics require **5V or 3.3V**.
 
-When powered via PoE, the controller usually receives a regulated **5V
-supply** from the PoE module.
+In the current design, the power architecture is intentionally kept
+simple:
 
-A **step-up (boost) converter** can then generate the required tower
-voltage.
+-   the signal tower is supplied directly from the **12V system rail**
+-   the ESP32 controller is supplied via a **step-down converter**
 
-Example:
+This minimizes the number of conversion stages and improves overall
+efficiency and maintainability.
 
-    5V → Step-Up Converter → 12V output → Signal Tower
+Advantages of this approach:
 
-This allows the system to drive industrial signal towers while keeping
-the controller electronics simple and modular.
-
-Advantages of using modular step-up converters:
-
--   reduced electrical design complexity
--   easy replacement if defective
--   widely available components
--   flexibility for different tower voltage requirements
+-   fewer components
+-   simpler electrical design
+-   easier troubleshooting
+-   improved efficiency
+-   better alignment with the measured low-current LED tower load
 
 ------------------------------------------------------------------------
 
