@@ -38,6 +38,13 @@ and behavior during communication failures.
 
 - [Network and Reliability](network_and_reliability.md)
 
+## Home Assistant Integration
+
+Example Home Assistant configurations and automations:
+
+- [Home Assistant Setup](home_assistant/README.md)
+- [Heartbeat Automation](home_assistant/heartbeat_automation.yaml)
+
 ## Use Cases
 
 Example deployment scenarios and practical applications of the

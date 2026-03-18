@@ -1,0 +1,18 @@
+alias: LED Tower 01 Heartbeat
+description: Sends heartbeat every second while supervision is enabled
+
+trigger:
+  - platform: time_pattern
+    seconds: "/1"
+
+condition:
+  - condition: state
+    entity_id: switch.led_tower_01_heartbeat_supervision
+    state: "on"
+
+action:
+  - service: button.press
+    target:
+      entity_id: button.led_tower_01_heartbeat_ping
+
+mode: single
