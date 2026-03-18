@@ -58,8 +58,6 @@ system fails.
 
 Heartbeat supervision can be enabled or disabled via Home Assistant.
 
----
-
 ## Heartbeat Mechanism
 
 Home Assistant periodically sends a **Heartbeat Ping** to the controller.
@@ -69,26 +67,22 @@ Each received ping updates the internal heartbeat timer.
 If the controller does not receive a heartbeat within the configured
 timeout period, a **heartbeat failure state** is activated.
 
----
-
-# Heartbeat Failure Signal
+## Heartbeat Failure Signal
 
 When the heartbeat times out, the tower switches to a dedicated
 communication failure signal.
 
 Pattern:
 
-
+```
 All LEDs ON for 0.5 seconds
 every 3 seconds
-
+```
 
 This indicates that the displayed monitoring state can no longer be
 trusted.
 
----
-
-# Heartbeat Recovery Behavior
+## Heartbeat Recovery Behavior
 
 When a heartbeat is received again:
 
@@ -124,23 +118,17 @@ Options:
 - Alarm Blink Slow
 - Alarm Blink Fast
 
----
-
 ## Heartbeat Supervision (Switch)
 
 Enables or disables heartbeat monitoring.
 
 When disabled, the heartbeat timeout logic is inactive.
 
----
-
 ## Heartbeat Ping (Button)
 
 Updates the heartbeat timer.
 
 Typically triggered periodically by an automation in Home Assistant.
-
----
 
 ## Tower Effective State (Sensor)
 
@@ -161,47 +149,39 @@ Possible values:
 
 # Typical Home Assistant Setup
 
-A common configuration uses:
+A common Home Assistant setup uses:
 
 - a **Select entity** to control the tower state
-- an **automation** sending heartbeat pings
-- a **dashboard card** for manual override
+- a **heartbeat automation** that periodically triggers the Heartbeat Ping
+- a **dashboard card** for manual interaction and testing
 
-Example use cases include:
+Typical application examples include:
 
 - infrastructure monitoring
 - server health indication
 - CI pipeline status display
 - lab status indication
 
-## ESPHome Device
+---
 
-Example device in the ESPHome dashboard.
+# ESPHome Dashboard
+
+Example device entry in the ESPHome dashboard.
 
 ![ESPHome Device](images/esphome_dashboard.png)
 
-## Home Assistant Control
+---
 
-The tower state can be controlled via Home Assistant.
+# Home Assistant Dashboard
+
+Example dashboard tile used to control the signal tower.
 
 ![Home Assistant Dashboard](images/ha_dashboard_tile.png)
-![Home Assistant Dashboard](images/ha_entity_setup.png)
 
-## Heartbeat Supervision
+---
 
-The tower supports an optional heartbeat supervision.
+# Home Assistant Entity Setup
 
-Home Assistant periodically sends a heartbeat ping to the device.
+Example entity view of the signal tower device in Home Assistant.
 
-If no heartbeat is received within the timeout period, the tower
-switches to a communication failure signal.
-
-Signal pattern:
-
-All LEDs ON for 0.5 seconds every 3 seconds.
-
-This indicates that the displayed status information may no longer
-be valid.
-
-When a heartbeat is received again the tower switches to **Off**.
-The previous state is not restored automatically.
+![Home Assistant Entity Setup](images/ha_entity_setup.png)
